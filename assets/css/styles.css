@@ -224,3 +224,8 @@ table#product-table td img {
   height:56px;
 }
 
+.table-responsive .table {
+    max-width: none;
+    -webkit-overflow-scrolling: touch !important;
+}
+
